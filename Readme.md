@@ -20,8 +20,11 @@ What the app can do:
 
 ---
 
-* Build and run
-* Install the app on a device for additional eye cand (swashing water dependent on device orientation)
+Clone the project including submodules:
+
+	$ git clone --recursive https://github.com/robertoseidenberg/RCCBR.git
+
+Install the app on a device for additional eye candy (swashing water dependent on device orientation)
 
 
 ### Dependencys
