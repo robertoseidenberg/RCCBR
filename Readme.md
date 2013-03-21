@@ -5,8 +5,6 @@ Concept app for remotely controlling devices in your bathroom.
 
 ###Overview
 
----
-
 What the app can do:
 
 * Select device from list of available installations in your bathroom
@@ -18,8 +16,6 @@ What the app can do:
 
 ### Setup
 
----
-
 Clone the project including submodules:
 
 	$ git clone --recursive https://github.com/robertoseidenberg/RCCBR.git
@@ -28,8 +24,6 @@ Install the app on a device for additional eye candy (swashing water dependent o
 
 
 ### Dependencys
-
----
 
 **Running the app:**
 
@@ -48,14 +42,10 @@ Install the app on a device for additional eye candy (swashing water dependent o
 
 ### Documentation
 
----
-
 Documentation is beeing generated using [appledoc](https://github.com/tomaz/appledoc) by building the Documentation target. The generated docs will be stored in the XCode docs path and can be read in the organizer.
 
 
 ### Known issues
-
----
 
 **UI:**
 
@@ -68,16 +58,12 @@ Documentation is beeing generated using [appledoc](https://github.com/tomaz/appl
 * Deploymate: MBAlertView.m (483): Deplrecated method (iOS6.0) -(void)viewDidUnload: **No further investigation done**
 
 
-### Todo:
-
----
+### Todo
 
 Implementation as of now is in a somewhat incomplete state. This app acts as a client side simulation of a potential state of a remote bathtub. The server does not provide any state apart from the inital values. The model classes are engineered in a way so that they are easily extensible with functionality that incorporates server data arriving at irregular time intervals. See comments in code on how this would be hooked in.
 
 
 ### Architecture
-
----
 
 Model and UI implementations are stateless. This makes sense for the following reasons:
 
@@ -96,8 +82,6 @@ Assumed the app is running for 5 minutes, that sums up to 490 states. If you onl
 
 
 ### Acknowledgements
-
----
 
 RCCBR makes heave use these open source projects::
 
@@ -118,7 +102,5 @@ View classes:
 
 
 ### License
-
----
 
 RCCBR is licensed under the MIT License.
