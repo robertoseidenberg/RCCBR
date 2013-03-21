@@ -30,7 +30,7 @@ What the app can do:
 
 **Running the app:**
 
-* The app relies on a running server returning a JSON string. See kRCCRemoteBathtubControllerURL in RCCBathtubViewController.m
+* The app relies on a running server (Apps/Server in sources) returning a JSON string. See kRCCRemoteBathtubControllerURL in RCCBathtubViewController.m (Apps/Client in sources)
 
 
 **Localization**
