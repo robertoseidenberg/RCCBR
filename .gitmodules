@@ -1,0 +1,24 @@
+[submodule "Apps/Client/App/Vendor/Model/AFNetworking"]
+	path = Apps/Client/App/Vendor/Model/AFNetworking
+	url = git://github.com/AFNetworking/AFNetworking.git
+[submodule "Apps/Client/App/Vendor/Model/MGTwitterEngine"]
+	path = Apps/Client/App/Vendor/Model/MGTwitterEngine
+	url = git://github.com/mattgemmell/MGTwitterEngine.git
+[submodule "Apps/Client/App/Vendor/Model/NSTimer-Blocks"]
+	path = Apps/Client/App/Vendor/Model/NSTimer-Blocks
+	url = git://github.com/jivadevoe/NSTimer-Blocks.git
+[submodule "Apps/Client/App/Vendor/Model/UIColor-CrossFade"]
+	path = Apps/Client/App/Vendor/Model/UIColor-CrossFade
+	url = git://github.com/cbpowell/UIColor-CrossFade.git
+[submodule "Apps/Client/App/Vendor/Views/DPMeterView"]
+	path = Apps/Client/App/Vendor/Views/DPMeterView
+	url = git://github.com/dulaccc/DPMeterView.git
+[submodule "Apps/Client/App/Vendor/Views/MBAlertView"]
+	path = Apps/Client/App/Vendor/Views/MBAlertView
+	url = git://github.com/mobitar/MBAlertView.git
+[submodule "Apps/Client/App/Vendor/Views/MeterView"]
+	path = Apps/Client/App/Vendor/Views/MeterView
+	url = git://github.com/frankus/MeterView.git
+[submodule "Apps/Client/App/Vendor/Views/MHRotaryKnob"]
+	path = Apps/Client/App/Vendor/Views/MHRotaryKnob
+	url = git://github.com/hollance/MHRotaryKnob.git
