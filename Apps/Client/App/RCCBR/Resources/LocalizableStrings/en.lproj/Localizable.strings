@@ -1,0 +1,12 @@
+kRCCBathtubViewControllerFinishedAlertMessage="Time to get naked!";
+kRCCBathtubViewControllerFinishedAlertButtonTitle="Huh?";
+kRCCBathtubViewControllerConnectionErrorAlertMessage="Connection error";
+kRCCBRMenuTableViewControllerTableCellTitleJakuzzi="Jakuzzi";
+kRCCBathtubViewControllerConnectionErrorAlertButtonTitle="Duh!";
+kRCCBRMenuTableViewControllerTitle="Bathroom Remote";
+kRCCBRMenuTableViewControllerTableCellTitleJakuzziSubtitle="Might be crouded if you delay";
+kRCCBRMenuTableViewControllerTableCellTitleSaunaSubtitle="Might catch fire if you don‘t make it in time";
+kRCCBRMenuTableViewControllerTableCellTitleBathtubSubtitle="Might bubble over if you arrive late";
+kRCCBRMenuTableViewControllerTableCellTitleBathtub="Bathtub";
+kRCCBRMenuTableViewControllerTableHeader="Select device ...";
+kRCCBRMenuTableViewControllerTableCellTitleSauna="Sauna";

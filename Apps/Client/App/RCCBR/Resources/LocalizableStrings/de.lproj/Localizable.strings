@@ -1,0 +1,12 @@
+kRCCBathtubViewControllerFinishedAlertMessage="Ausziehen!";
+kRCCBathtubViewControllerFinishedAlertButtonTitle="Huh?";
+kRCCBathtubViewControllerConnectionErrorAlertMessage="Verbindungsfehler";
+kRCCBRMenuTableViewControllerTableCellTitleJakuzzi="Jakuzzi";
+kRCCBathtubViewControllerConnectionErrorAlertButtonTitle="Duh!";
+kRCCBRMenuTableViewControllerTitle="Badezimmer Fernbedinung";
+kRCCBRMenuTableViewControllerTableCellTitleJakuzziSubtitle="Vielleicht überfüllt, wenn sie zu lange warten";
+kRCCBRMenuTableViewControllerTableCellTitleSaunaSubtitle="Vielleicht abgebrannt, wenn sie ankommen";
+kRCCBRMenuTableViewControllerTableCellTitleBathtubSubtitle="Vielleicht übergelaufen, wenn sie sich verspäten";
+kRCCBRMenuTableViewControllerTableCellTitleBathtub="Badewanne";
+kRCCBRMenuTableViewControllerTableHeader="Gerät wählen ...";
+kRCCBRMenuTableViewControllerTableCellTitleSauna="Sauna";
