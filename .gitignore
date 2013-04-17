@@ -13,5 +13,3 @@ build/*
 xcuserdata
 profile
 *.moved-aside
-
-Apps/Client/App/Vendor
